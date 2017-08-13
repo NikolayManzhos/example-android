@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/codecov/example-android.svg?branch=master)](https://travis-ci.org/codecov/example-android)
-[![codecov.io](https://codecov.io/github/codecov/example-android/branch/master/graph/badge.svg)](https://codecov.io/github/codecov/example-android)
+[![Build Status](https://travis-ci.org/NikolayManzhos/example-android.svg?branch=master)](https://travis-ci.org/NikolayManzhos/example-android)
 # Codecov Android Example
 
 This repository serves as an example on how to integrate [Codecov](https://codecov.io) in Android
